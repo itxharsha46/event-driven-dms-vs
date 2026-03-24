@@ -1,0 +1,20 @@
+# React Frontend
+dms-frontend/node_modules/
+dms-frontend/dist/
+dms-frontend/.env
+
+# Java Spring Boot Backend
+dms-core-service/target/
+dms-core-service/.mvn/
+dms-core-service/mvnw
+dms-core-service/mvnw.cmd
+
+# Python AI Service
+dms-llm-service/venv/
+dms-llm-service/__pycache__/
+dms-llm-service/.env
+
+# OS & IDE Files
+.vscode/
+.idea/
+*.DS_Store
